@@ -1,0 +1,127 @@
+body{
+	width:100%;
+}
+
+.header{
+	background-color:#99e6ff;
+	width:100%:
+	background-size:cover;
+	height:80px;
+}
+
+.header li{
+	list-style:none;
+	display:inline-block;
+	padding-right:18px;
+}
+
+.header a{
+	text-decoration:none;
+	color:black;
+}
+
+.header-list{
+	margin:10px 20px;
+	display:inline-block;
+	float:right;
+	list-style:none;
+	font-size:20px;
+	font-family:Quantico;
+}
+
+.header h1{
+	display:inline-block;
+	color:#009933;
+	font-size:50px;
+	margin:10px 30px;
+}
+
+.content{
+	height:1000px;
+	margin:20px 40px;
+}
+
+.content h2{
+	font-size:30px;
+}
+
+.table-p{
+	width:500px;
+	padding:5px;
+	font-family:arial;
+	font-size:28px;
+	color:#232323;
+}
+
+.profil p{
+	font-size:25px;
+	font-family:arial;
+	color:black;
+}
+
+.header i{
+	color:orange;
+}
+
+.pendidikan h2{
+	color:black;
+}
+
+.pendidikan h3{
+	font-size:18px;
+	font-weight:normal;
+}
+
+
+.table-j, .table-j tr, .table-j td{
+	padding-left:5px;
+	border-collapse:collapse;
+	border:1px solid black;
+	color:black;
+	font-family:"times new roman";
+}
+
+.table-a, .table-a tr, .table-a td{
+	padding-left:5px;
+	border-collapse:collapse;
+	border:1px solid black;
+	font-family:Arial;
+}
+
+.footer{
+	padding-top:10px;
+	padding-left:20px;
+	height:200px;
+	width:100%;
+	display:inline-block;
+	background-color:#996633;
+	background-size:cover;
+	color:black;
+}
+
+.thank{
+	width:500px;
+	height:100px;
+	display:inline-block;
+	float:left;
+}
+
+.thank h3{
+	font-size:35px;
+}
+
+.thank h2{
+	font-size:25px;
+}
+
+.kontak{
+	padding-right:20px;
+	display:inline-block;
+	float:right;
+}
+	
+.kontak a{
+	text-decoration:none;
+	color:black;
+}
+	
